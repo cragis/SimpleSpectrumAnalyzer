@@ -1,3 +1,4 @@
+#by Craig Howald 2017 to remain free from restriction
 
 from matplotlib.figure import Figure
 
